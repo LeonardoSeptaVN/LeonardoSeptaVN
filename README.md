@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 Front-End Developer | React • Next.js • Tailwind CSS | Laravel Blade Enthusiast<br><br>I’m a Front-End Developer with hands-on experience building modern web interfaces. I’m currently collaborating with several Tech Engineers on a monorepo architecture using React, Next.js, Tailwind CSS, and an NX-based workflow.<br>Before transitioning to this ecosystem, I worked extensively with Laravel Blade, developing responsive and maintainable front-end features for various projects.<br><br>I focus on clean UI, reusable components, and maintainable code—whether working in traditional MVC with Laravel or in a scalable monorepo setup with React and Next.js.
 
 
